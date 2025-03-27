@@ -14,9 +14,9 @@
 
 <h3 align="left">My Certificates:</h3>
 
-- SQL_basic certificate from HackerRank(https://github.com/user-attachments/files/19482286/SQL_basic.certificate.from.HackerRank.pdf)
+- SQL Basic Certificate from HackerRank(https://github.com/user-attachments/files/19482286/SQL_basic.certificate.from.HackerRank.pdf)
 
-- SQL_intermediate certificate from HackerRank(https://github.com/user-attachments/files/19482287/SQL_intermediate.certificate.from.HackerRank.pdf)
+- SQL Intermediate Certificate from HackerRank(https://github.com/user-attachments/files/19482287/SQL_intermediate.certificate.from.HackerRank.pdf)
   
 - Associate Data Analyst Certificate(https://github.com/user-attachments/files/19482289/Associate.Data.Analyst.Certificate.pdf)
   
