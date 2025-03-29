@@ -18,10 +18,10 @@
 
 - SQL Intermediate Certificate from HackerRank(https://github.com/user-attachments/files/19482287/SQL_intermediate.certificate.from.HackerRank.pdf)
   
-- Associate Data Analyst Certificate(https://github.com/user-attachments/files/19482289/Associate.Data.Analyst.Certificate.pdf)
+- Associate Data Analyst Certificate from DataCamp(https://github.com/user-attachments/files/19482289/Associate.Data.Analyst.Certificate.pdf)
   
-- Statement of Accomplishment Associate Data Analyst in SQL(https://github.com/user-attachments/files/19482290/Statement.of.Accomplishment.Associate.Data.Analyst.in.SQL.pdf)
+- Statement of Accomplishment Associate Data Analyst in SQL from DataCamp(https://github.com/user-attachments/files/19482290/Statement.of.Accomplishment.Associate.Data.Analyst.in.SQL.pdf)
   
-- Statement of Accomplishment Data Analyst in Power BI(https://github.com/user-attachments/files/19482294/Statement.of.Accomplishment.Data.Analyst.in.Power.BI.pdf)
+- Statement of Accomplishment Data Analyst in Power BI from DataCamp(https://github.com/user-attachments/files/19482294/Statement.of.Accomplishment.Data.Analyst.in.Power.BI.pdf)
   
 
