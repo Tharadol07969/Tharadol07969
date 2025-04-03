@@ -28,14 +28,14 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 <h3 align="left">My Certificates:</h3>
 
-- SQL Basic Certificate from HackerRank [Click Here](https://github.com/user-attachments/files/19482286/SQL_basic.certificate.from.HackerRank.pdf)
+- SQL Basic Certificate from HackerRank [Click Here](https://drive.google.com/file/d/1Q5spoR1PWKq74N5iDIA6DSDycjDjKEPJ/view?usp=sharing)
 
-- SQL Intermediate Certificate from HackerRank [Click Here](https://github.com/user-attachments/files/19482287/SQL_intermediate.certificate.from.HackerRank.pdf)
+- SQL Intermediate Certificate from HackerRank [Click Here](https://drive.google.com/file/d/1MSfXngAf5meVtHnJDGbaqX7mxTPTsl4n/view?usp=sharing)
   
-- Associate Data Analyst Certificate from DataCamp [Click Here](https://github.com/user-attachments/files/19482289/Associate.Data.Analyst.Certificate.pdf)
+- Associate Data Analyst Certificate from DataCamp [Click Here](https://drive.google.com/file/d/1hXHcBDUI4peMzH89m2S2dVHs2SJnf5jS/view?usp=sharing)
   
-- Statement of Accomplishment Associate Data Analyst in SQL from DataCamp [Click Here](https://github.com/user-attachments/files/19482290/Statement.of.Accomplishment.Associate.Data.Analyst.in.SQL.pdf)
+- Statement of Accomplishment Associate Data Analyst in SQL from DataCamp [Click Here](https://drive.google.com/file/d/12_Omah9T0OHaLYZVRHtgnP8526gtOD6H/view?usp=sharing)
   
-- Statement of Accomplishment Data Analyst in Power BI from DataCamp [Click Here](https://github.com/user-attachments/files/19482294/Statement.of.Accomplishment.Data.Analyst.in.Power.BI.pdf)
+- Statement of Accomplishment Data Analyst in Power BI from DataCamp [Click Here](https://drive.google.com/file/d/1BXs9YbUdFkwqiUpbvFGkXwVZuSregeji/view?usp=sharing)
   
 
