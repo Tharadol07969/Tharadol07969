@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharadol Saekhow</h1>
+<h1 align="center">Junior Data Analyst</h1>
 I am a Business Administration graduate with a major in Finance and a strong passion for Data Analysis. I am seeking a dynamic role as a Data Analyst where I can apply my analytical skills, financial expertise, and data-driven insights to support strategic decision-making and drive business success.
 
 - 🌱 I’m currently learning **SQL(PostgreSQL, MySQL), Power BI, Microsoft Excel, Google Sheets**
