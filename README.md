@@ -8,6 +8,12 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 - 📫 How to reach me **tharadolsaekhow@gmail.com**
 
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharadol-saekhow-b8b27735a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharadolsaekhow@gmail.com)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -24,8 +30,12 @@ I am a Business Administration graduate with a major in Finance and a strong pas
   </a> 
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-  </a> 
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
 </p>
+
 
 <h3 align="left">My Certificates:</h3>
 
@@ -38,5 +48,28 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 - Statement of Accomplishment Associate Data Analyst in SQL from DataCamp [Click Here](https://drive.google.com/file/d/12_Omah9T0OHaLYZVRHtgnP8526gtOD6H/view?usp=sharing)
   
 - Statement of Accomplishment Data Analyst in Power BI from DataCamp [Click Here](https://drive.google.com/file/d/1BXs9YbUdFkwqiUpbvFGkXwVZuSregeji/view?usp=sharing)
-  
 
+---
+
+## 🚀 Featured Projects
+
+### 1. [<u>Contoso DW - Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
+- **ℹ️ Description:** A multi‑page Power BI dashboard for **Contoso DW**, focusing on the **Actual** scenario from the **DimScenario** table to visualize sales, profitability, and expense trends across channels.
+- **🏆 Achievements:**
+  - Delivered an interactive, four‑page dashboard (Overview, Channel, COGS, Expense) that supports executive‑level and granular analysis.
+  - Uncovered key insights—e.g., North America drives 54% of sales, Home Appliances yield the highest margins, and Human Capital dominates expenses—driving data‑backed strategic decisions.
+  - Enabled stakeholders to reallocate resources, optimize product focus, and identify cost‑saving opportunities.
+- **🎯 Technologies used:**
+    - **BI & Visualization:** Power BI Desktop, Power Query, DAX  
+    - **Data Modeling:** Power BI, Date dimension, fact/dimension relationships  
+    - **Data Preparation:** Power Query, Microsoft Excel
+
+### 2. [<u>FoodYum Grocery Store Sales: Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
+- **ℹ️ Description:** A PostgreSQL-driven data cleaning pipeline for the FoodYum grocery sales dataset, standardizing and transforming raw transactional data into analysis-ready tables.
+- **🏆 Achievements:**
+  - Developed and executed SQL scripts to ingest, clean, and validate over 1700 product records with zero data loss.  
+  - Automated handling of missing values, outlier detection, and format standardization, resulting in a robust `cleaned_products` table.  
+  - Improved downstream analytics efficiency by ensuring consistent data quality and schema integrity.
+- **🎯 Technologies used:**
+    - **Database & Querying:** PostgreSQL (v17), pgAdmin 4  
+    - **Data Processing:** SQL (CTEs, window functions, PERCENTILE_CONT)
