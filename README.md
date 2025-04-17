@@ -56,7 +56,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 ### 1. [<u>Contoso DW - Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
 - **ℹ️ Description:** A multi‑page Power BI dashboard for **Contoso DW**, focusing on the **Actual** scenario from the **DimScenario** table to visualize sales, profitability, and expense trends across channels.
 - **🏆 Achievements:**
-  - Delivered an interactive, four‑page dashboard (Overview, Channel, COGS, Expense) that supports executive‑level and granular analysis.
+  - Delivered an interactive, four‑page dashboard (Overview, Channel, Product, Expense) that supports executive‑level and granular analysis.
   - Uncovered key insights—e.g., North America drives 54% of sales, Home Appliances yield the highest margins, and Human Capital dominates expenses—driving data‑backed strategic decisions.
   - Enabled stakeholders to reallocate resources, optimize product focus, and identify cost‑saving opportunities.
 - **🎯 Technologies used:**
