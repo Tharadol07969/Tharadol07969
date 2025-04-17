@@ -67,7 +67,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 ### 2. [<u>FoodYum Grocery Store Sales: Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
 - **ℹ️ Description:** A PostgreSQL-driven data cleaning pipeline for the FoodYum grocery sales dataset, standardizing and transforming raw transactional data into analysis-ready tables.
 - **🏆 Achievements:**
-  - Developed and executed SQL scripts to ingest, clean, and validate over 1700 product records with zero data loss.  
+  - Developed and executed SQL scripts to ingest, clean, and validate over 10K product records with zero data loss.  
   - Automated handling of missing values, outlier detection, and format standardization, resulting in a robust `cleaned_products` table.  
   - Improved downstream analytics efficiency by ensuring consistent data quality and schema integrity.
 - **🎯 Technologies used:**
