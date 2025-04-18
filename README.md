@@ -53,7 +53,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 ## 🚀 Featured Projects
 
-### 1. [<u>Contoso DW - Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
+### 1. [<u>Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
 - **ℹ️ Description:** A multi‑page Power BI dashboard for **Contoso DW**, focusing on the **Actual** scenario from the **DimScenario** table to visualize sales, profitability, and expense trends across channels.
 - **🏆 Achievements:**
   - Delivered an interactive, four‑page dashboard (Overview, Channel, Product, Expense) that supports executive‑level and granular analysis.
@@ -64,7 +64,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
     - **Data Modeling:** Power BI, Date dimension, fact/dimension relationships  
     - **Data Preparation:** Power Query, Microsoft Excel
 
-### 2. [<u>FoodYum Grocery Store Sales: Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
+### 2. [<u>Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
 - **ℹ️ Description:** A PostgreSQL-driven data cleaning pipeline for the FoodYum grocery sales dataset, standardizing and transforming raw transactional data into analysis-ready tables.
 - **🏆 Achievements:**
   - Developed and executed SQL scripts to ingest, clean, and validate over 10K product records with zero data loss.  
