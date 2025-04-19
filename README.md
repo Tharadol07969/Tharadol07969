@@ -53,7 +53,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 ## 🚀 Featured Projects
 
-### 1. [<u>Threads Ltd – Sales Report</u>](https://github.com/Tharadol07969/sales_dashboard)
+### 1. [<u>Sales Analysis Report</u>](https://github.com/Tharadol07969/sales_dashboard)
 - **ℹ️ Description:** A three‑page Power BI dashboard for **Threads Ltd**, analyzing sales across its nationwide retail network. It highlights year‑over‑year trends, product category performance, and channel‑level insights.  
 - **🏆 Achievements:**
   - Built interactive pages (Overview, Product Detail, Channel Detail) showcasing **\$1.77M** in annual sales, **54.15%** profit margin, and **4.63%** YoY growth in units sold.  
