@@ -41,9 +41,9 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 - Associate Data Analyst Certificate from DataCamp [Click Here](https://drive.google.com/file/d/1hXHcBDUI4peMzH89m2S2dVHs2SJnf5jS/view?usp=sharing)
   
-- Statement of Accomplishment Associate Data Analyst in SQL from DataCamp [Click Here](https://drive.google.com/file/d/12_Omah9T0OHaLYZVRHtgnP8526gtOD6H/view?usp=sharing)
+- Associate Data Analyst in SQL from DataCamp [Click Here](https://drive.google.com/file/d/12_Omah9T0OHaLYZVRHtgnP8526gtOD6H/view?usp=sharing)
   
-- Statement of Accomplishment Data Analyst in Power BI from DataCamp [Click Here](https://drive.google.com/file/d/1BXs9YbUdFkwqiUpbvFGkXwVZuSregeji/view?usp=sharing)
+- Data Analyst in Power BI from DataCamp [Click Here](https://drive.google.com/file/d/1BXs9YbUdFkwqiUpbvFGkXwVZuSregeji/view?usp=sharing)
 
 - SQL Basic Certificate from HackerRank [Click Here](https://drive.google.com/file/d/1Q5spoR1PWKq74N5iDIA6DSDycjDjKEPJ/view?usp=sharing)
 
