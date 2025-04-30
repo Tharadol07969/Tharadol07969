@@ -34,6 +34,9 @@ I am a Business Administration graduate with a major in Finance and a strong pas
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL%20Server-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Notion"/>
+  </a>
 </p>
 
 
@@ -53,22 +56,34 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 ## 🚀 Featured Projects
 
-### 1. [<u>Sales Analysis Report</u>](https://github.com/Tharadol07969/sales_dashboard)
+### 1. [<u>SQL Medallion Data Warehouse</u>](https://github.com/Tharadol07969/sql_medallion_data_warehouse_project)
+- **ℹ️ Description:**  
+  Architected and implemented a three-tier Medallion Architecture on Microsoft SQL Server. Raw CRM and ERP extracts flow into the Bronze layer, get cleansed and conformed in Silver, and surface as analytics-ready star schemas in Gold.
+
+- **🏆 Key Achievements:**  
+  - Automated end-to-end ETL pipelines loading millions of records into Bronze with zero data loss.  
+  - Developed a comprehensive Data Quality Framework with referential integrity checks, null-value validations, and schema consistency tests.  
+  - Engineered Silver-layer transformations.  
+  - Designed Gold-layer fact and dimension views delivering sub-second BI query performance.  
+  - Published full ER diagrams, data flow charts, and a data catalog to streamline governance and onboarding.
+
+- **🎯 Technologies & Tools:**  
+  - **Database & Querying:** Microsoft SQL Server, SQL Server Management Studio    
+  - **Version Control & Collaboration:** Git, GitHub  
+  - **Documentation:** Markdown, Draw.io
+
+### 2. [<u>Sales Analysis Report</u>](https://github.com/Tharadol07969/sales_dashboard)
 - **ℹ️ Description:** A three‑page Power BI dashboard for **Threads Ltd**, analyzing sales across its nationwide retail network. It highlights year‑over‑year trends, product category performance, and channel‑level insights.  
 - **🏆 Achievements:**
-  - Built interactive pages (Overview, Product Detail, Channel Detail) showcasing **\$1.77M** in annual sales, **54.15%** profit margin, and **4.63%** YoY growth in units sold.  
-  - Identified top‑performing categories (Hoodies & Sweatshirts, Jackets) and most profitable channels, guiding promotional and inventory strategies.  
-  - Delivered decision‑support capabilities by:  
-    - Providing an **Executive KPI Snapshot** (total sales, profit margin, YoY change).  
-    - Enabling **Product Portfolio Optimization** through category‑level sales vs. margin analysis.  
-    - Driving **Channel & Geography Strategy** using drill‑down tables and maps for targeted resource allocation.  
-  - Facilitated “what‑if” scenario analysis via slicers (Year, Category, Country), improving agility in strategic planning.  
+    - Delivered interactive pages (Overview, Product Detail, Channel Detail) revealing \$1.77 M in annual sales, 54.15% profit margin, and 4.63% YoY growth in units sold.  
+  - Identified top-performing categories (Hoodies & Sweatshirts, Jackets) and high-growth channels for targeted promotions.  
+  - Embedded “what-if” slicers for dynamic scenario planning across years, categories, and regions. 
 - **🎯 Technologies used:**
     - **BI & Visualization:** Power BI Desktop, Power Query, DAX  
     - **Data Modeling:** Star schema (Date, Products, Retailers, Return dimensions)  
     - **Data Preparation:** Power Query, Microsoft Excel
 
-### 2. [<u>Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
+### 3. [<u>Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
 - **ℹ️ Description:** A multi‑page Power BI dashboard for **Contoso DW**, focusing on the **Actual** scenario from the **DimScenario** table to visualize sales, profitability, and expense trends across channels.
 - **🏆 Achievements:**
   - Delivered an interactive, four‑page dashboard (Overview, Channel, Product, Expense) that supports executive‑level and granular analysis.
@@ -79,7 +94,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
     - **Data Modeling:** Power BI, Date dimension, fact/dimension relationships  
     - **Data Preparation:** Power Query, Microsoft Excel
 
-### 3. [<u>Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
+### 4. [<u>Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
 - **ℹ️ Description:** A PostgreSQL-driven data cleaning pipeline for the FoodYum grocery sales dataset, standardizing and transforming raw transactional data into analysis-ready tables.
 - **🏆 Achievements:**
   - Developed and executed SQL scripts to ingest, clean, and validate over 10K product records with zero data loss.  
