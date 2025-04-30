@@ -60,7 +60,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 - **ℹ️ Description:**  
   Architected and implemented a three-tier Medallion Architecture on Microsoft SQL Server. Raw CRM and ERP extracts flow into the Bronze layer, get cleansed and conformed in Silver, and surface as analytics-ready star schemas in Gold.
 
-- **🏆 Key Achievements:**  
+- **🏆 Achievements:**  
   - Automated end-to-end ETL pipelines loading millions of records into Bronze with zero data loss.  
   - Developed a comprehensive Data Quality Framework with referential integrity checks, null-value validations, and schema consistency tests.  
   - Engineered Silver-layer transformations.  
