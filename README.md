@@ -60,7 +60,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 ### 1. [<u>SQL Medallion Data Warehouse</u>](https://github.com/Tharadol07969/sql_medallion_data_warehouse_project)
 - **ℹ️ Description:** Building a Data Warehouse using the Medallion architecture.
-- **🏆 Achievements:** Developed a Data Warehouse using a three-tier Medallion architecture on SQL Server, ingesting raw CRM and ERP extracts into Bronze, cleansing and conforming data in Silver, and exposing analytics-ready star schemas in Gold, with full ETL automation, data quality validation, and CI/CD integration.
+- **🏆 Achievements:** Developed a Data Warehouse using a three-tier Medallion architecture on SQL Server, ingesting raw data CSV files from CRM & ERP system extracts into Bronze, cleansing and conforming data in Silver, and exposing analytics-ready star schemas in Gold, with full ETL automation, data quality validation, and CI/CD integration.
 - **🎯 Technologies & Tools:**  
   - **Database & Querying:** Microsoft SQL Server, SQL Server Management Studio   
   - **Documentation:** Markdown, Draw.io
