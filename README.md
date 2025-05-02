@@ -65,25 +65,18 @@ I am a Business Administration graduate with a major in Finance and a strong pas
   - **Database & Querying:** Microsoft SQL Server, SQL Server Management Studio   
   - **Documentation:** Markdown, Draw.io
 
-### 2. [<u>Sales Analysis Report</u>](https://github.com/Tharadol07969/sales_dashboard)
+### 2. [<u>Sales Analytic Report</u>](https://github.com/Tharadol07969/sales_dashboard)
 - **ℹ️ Description:** A three‑page Power BI dashboard for **Threads Ltd**, analyzing sales across its nationwide retail network. It highlights year‑over‑year trends, product category performance, and channel‑level insights.  
 - **🏆 Achievements:** Designed a three-page Power BI dashboard (Overview, Product, Channel) for Threads Ltd, surfacing $1.77M in annual sales, 54.15% profit margin, and 4.63% YoY growth in units sold. Enables stakeholders to optimize and channel strategy by visualizing top categories and high-growth regions. 
 - **🎯 Technologies used:**
     - **BI & Visualization:** Power BI Desktop, Power Query, DAX  
-    - **Data Modeling:** Star schema (Date, Products, Retailers, Return dimensions)  
+    - **Data Modeling:** Power BI (Star schema)  
     - **Data Preparation:** Power Query, Microsoft Excel
 
-### 3. [<u>Marketing Analysis Report</u>](https://github.com/Tharadol07969/marketing_dashboard)
-- **ℹ️ Description:** A multi‑page Power BI dashboard for **Contoso DW**, focusing on the **Actual** scenario from the **DimScenario** table to visualize sales, profitability, and expense trends across channels.
-- **🏆 Achievements:** Built a four-page Power BI report focused on the “Actual” scenario from the DimScenario table. Visualizes sales, profit, expense trends, and channel performance across Contoso’s network, providing actionable insights to maximize ROI and refine marketing investments.
+### 3. [<u>HR Analytic Report</u>](https://github.com/Tharadol07969/hr_analytics_report)
+- **ℹ️ Description:** Designed and developed a comprehensive Power BI dashboard to assist HR teams in identifying key drivers of employee attrition and tracking workforce performance trends over time.
+- **🏆 Achievements:** Provided attrition insight is that high turnover rates in specific departments, particularly Sales, are linked to factors such as overtime, frequent travel, and short tenure, and built a performance tracker page to help HR teams track performance metrics over time.
 - **🎯 Technologies used:**
     - **BI & Visualization:** Power BI Desktop, Power Query, DAX  
-    - **Data Modeling:** Power BI, Date dimension, fact/dimension relationships  
+    - **Data Modeling:** Power BI (Star schema)  
     - **Data Preparation:** Power Query, Microsoft Excel
-
-### 4. [<u>Data Cleaning Project with PostgreSQL</u>](https://github.com/Tharadol07969/data_cleaning_with_postgresql)
-- **ℹ️ Description:** A PostgreSQL-driven data cleaning pipeline for the FoodYum grocery sales dataset, standardizing and transforming raw transactional data into analysis-ready tables.
-- **🏆 Achievements:** Developed a PostgreSQL-based data cleansing pipeline for the FoodYum grocery sales dataset, processing over 10,000 records. Automated handling of missing values, outlier detection, and format standardization to produce a production-ready `cleaned_products` table for downstream analytics.
-- **🎯 Technologies used:**
-    - **Database & Querying:** PostgreSQL (v17), pgAdmin 4  
-    - **Data Processing:** SQL (CTEs, window functions, PERCENTILE_CONT)
