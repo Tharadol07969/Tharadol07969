@@ -8,7 +8,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 - 📫 How to reach me **tharadolsaekhow@gmail.com**
 
-- ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1LLdZrhO0OLXSbBbH3vD9Rl-JpIbM4H2C/view?usp=sharing)
+- ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1tIcw5rmacBgwWv0BSj9irJpXGDO-AuDJ/view?usp=sharing)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
