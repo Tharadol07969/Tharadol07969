@@ -65,7 +65,19 @@ I am a Business Administration graduate with a major in Finance and a strong pas
   - **Database & Querying:** Microsoft SQL Server, SQL Server Management Studio   
   - **Documentation:** Markdown, Draw.io
 
-### 2. [<u>Sales Analytic Report</u>](https://github.com/Tharadol07969/sales_dashboard)
+### 2. [<u>SQL Sales Analytic</u>](https://github.com/Tharadol07969/sql_sales_analytic)
+- **ℹ️ Description:** A comprehensive collection of SQL scripts for data exploration, analytics, and reporting.
+- **🏆 Achievements:**
+  - Developed modular, reusable T‑SQL scripts to accelerate exploratory analysis and reduce ad-hoc query development time by 50%.
+  - Implemented robust segmentation logic for customers and products, enabling rapid identification of high-value cohorts.
+  - Created time-series and cumulative trend queries to support monthly and year-to-date performance tracking.
+  - Built production-ready reporting views (`gold.report_customers`, `gold.report_products`) that consolidate KPIs and drive data-driven decisions.
+  - Documented the analytical workflow and sample outputs, facilitating onboarding for new analysts.
+- **🎯 Technologies & Tools:**  
+  - **Database & Querying:** Microsoft SQL Server, SQL Server Management Studio   
+  - **Documentation:** Markdown
+
+### 3. [<u>Sales Analytic Report</u>](https://github.com/Tharadol07969/sales_dashboard)
 - **ℹ️ Description:** A three‑page Power BI dashboard for **Threads Ltd**, analyzing sales across its nationwide retail network. It highlights year‑over‑year trends, product category performance, and channel‑level insights.  
 - **🏆 Achievements:** Designed a three-page Power BI dashboard (Overview, Product, Channel) for Threads Ltd, surfacing $1.77M in annual sales, 54.15% profit margin, and 4.63% YoY growth in units sold. Enables stakeholders to optimize and channel strategy by visualizing top categories and high-growth regions. 
 - **🎯 Technologies used:**
@@ -73,7 +85,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
     - **Data Modeling:** Power BI (Star schema)  
     - **Data Preparation:** Power Query, Microsoft Excel
 
-### 3. [<u>HR Analytic Report</u>](https://github.com/Tharadol07969/hr_analytics_report)
+### 4. [<u>HR Analytic Report</u>](https://github.com/Tharadol07969/hr_analytics_report)
 - **ℹ️ Description:** Designed and developed a comprehensive Power BI dashboard to assist HR teams in identifying key drivers of employee attrition and tracking workforce performance trends over time.
 - **🏆 Achievements:** Provided attrition insight is that high turnover rates in specific departments, particularly Sales, are linked to factors such as overtime, frequent travel, and short tenure, and built a performance tracker page to help HR teams track performance metrics over time.
 - **🎯 Technologies used:**
