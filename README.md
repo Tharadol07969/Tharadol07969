@@ -54,6 +54,8 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 - SQL Intermediate Certificate from HackerRank [Click Here](https://drive.google.com/file/d/1MSfXngAf5meVtHnJDGbaqX7mxTPTsl4n/view?usp=sharing)
 
+- SQL Advanced Certificate from HackerRank [Click Here](https://drive.google.com/file/d/1QpWx5E99fl_P_4upivtUYAHFCT79IR8v/view?usp=sharing)
+
 ---
 
 ## 🚀 Featured Projects
