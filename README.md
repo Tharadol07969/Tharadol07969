@@ -94,3 +94,5 @@ I am a Business Administration graduate with a major in Finance and a strong pas
     - **BI & Visualization:** Power BI Desktop, Power Query, DAX  
     - **Data Modeling:** Power BI (Star schema)  
     - **Data Preparation:** Power Query, Microsoft Excel
+
+---
