@@ -8,7 +8,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
 
 - 📫 How to reach me **tharadolsaekhow@gmail.com**
 
-- ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1umS70wOW_Hq5Dk1XhwWhvaMZavRC0L9r/view?usp=sharing)
+- ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1_iZ8j5V5SPbbSFE14SsnYnz_cCMf8Pjn/view?usp=sharing)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -35,6 +35,18 @@ I am a Business Administration graduate with a major in Finance and a strong pas
   </a> 
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/matplotlib-F97600?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
