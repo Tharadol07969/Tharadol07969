@@ -46,7 +46,7 @@ I am a Business Administration graduate with a major in Finance and a strong pas
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/matplotlib-F97600?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2" alt="Matplotlib"/>
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
